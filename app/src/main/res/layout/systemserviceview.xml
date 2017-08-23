@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button60"
+        android:onClick="doClickSys"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/panduannet" />
+
+    <Button
+        android:id="@+id/button61"
+        android:onClick="doClickSys"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/panduanwifi" />
+
+    <Button
+        android:id="@+id/button62"
+        android:onClick="doClickSys"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/panduanvolume" />
+
+    <Button
+        android:id="@+id/button63"
+        android:onClick="doClickSys"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/panduancxb" />
+
+    <Button
+        android:id="@+id/button64"
+        android:onClick="doClickSys"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/panduanbj" />
+
+    <Button
+        android:id="@+id/button65"
+        android:onClick="doClickSys"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/panduantz" />
+</LinearLayout>

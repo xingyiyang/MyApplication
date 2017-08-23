@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/prelizi" />
+
+        <Button
+            android:id="@+id/button32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/presave" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/shujuku" />
+
+        <Button
+            android:id="@+id/button38"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/newfile" />
+
+        <Button
+            android:id="@+id/button41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/writeread" />
+
+        <Button
+            android:id="@+id/button47"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/guangbo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/contentpro" />
+
+        <Button
+            android:id="@+id/button44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/writecotack" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button51"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/service" />
+
+        <Button
+            android:id="@+id/button59"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sysservice" />
+
+        <Button
+            android:id="@+id/button66"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gesture1" />
+
+        <Button
+            android:id="@+id/button67"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gesture2" />
+
+        <Button
+            android:id="@+id/button68"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gesture3" />
+    </LinearLayout>
+
+</LinearLayout>
