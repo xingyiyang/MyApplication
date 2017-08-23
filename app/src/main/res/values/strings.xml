@@ -78,6 +78,7 @@
     <string name="gesture1">手势识别1</string>
     <string name="gesture2">手势识别2</string>
     <string name="gesture3">手势识别3</string>
+    <string name="name1">姓名</string>
 
 
 </resources>
